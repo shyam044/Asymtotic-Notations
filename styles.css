@@ -1,0 +1,27 @@
+.main-heading-decoration{
+    text-decoration: underline;
+    color:green;
+    text-align:center;
+    font-size:50px;
+    font-weight:bold;
+}
+.heading-decoration{
+    text-decoration:underline;
+    color:blue;
+    font-size:50px;
+    padding:40px;
+}
+.box{
+    background-color:pink;
+    border-width:10px;
+    font-size:40px;
+}
+.centering 
+{
+    text-align:center;
+    font-size:50px;
+}
+.card
+{
+    background-color:azure;
+}
